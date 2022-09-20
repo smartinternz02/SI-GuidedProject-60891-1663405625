@@ -1,13 +1,19 @@
 # About Me
-## My name is Sagar Bangade
+# SI-GuidedProject-60891-1663405625
+Virtual Internship - Android Application Development Using Kotlin
+PAPISETTY VISHNU VARDHAN
 
-Smartinternz Dashboard Link- https://smartinternz.com/student-profile/feed/U0IyMDIyMDIyMTkzNg==
+Virtual Internship - Android Application Development Using Kotlin
 
-Google Developer Profile Link- https://g.dev/sagarbangade
+Google Supported Virtual Internship - Android Application Development Using Kotlin by Smart Internz
 
-Project - Grocery Android App
-This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
+Project - Grocery Android App This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
 
-As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
+Project Docementation link-https://docs.google.com/document/d/1o3fBuiCuV9LxmuKPxdGsfoXdOPrc12NZ/edit?usp=drivesdk&ouid=106200178240832152169&rtpof=true&sd=true
 
-Demonstration video of App- https://youtu.be/DFju7XqNHxw
+Guithub project link-https://github.com/smartinternz02/SI-GuidedProject-60891-1663405625/tree/main
+
+Google Developer profile link-https://g.dev/Vishnu20
+As we won't keep in mind everything, users oftentimes forget to shop for the items they require to shop for. However, with the help of this app, you'll be able to build a listing of the groceries you propose to shop for in order that you do not forget something.
+
+Demonstration video of Designed Application-https://drive.google.com/file/d/1mimac7Pa7RM9j2Yqa_mqepbdxWg3q_G9/view?usp=drivesdk
