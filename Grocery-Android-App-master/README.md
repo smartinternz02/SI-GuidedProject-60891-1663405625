@@ -14,6 +14,7 @@ Project Docementation link-https://docs.google.com/document/d/1o3fBuiCuV9LxmuKPx
 Guithub project link-https://github.com/smartinternz02/SI-GuidedProject-60891-1663405625/tree/main
 
 Google Developer profile link-https://g.dev/Vishnu20
+
 As we won't keep in mind everything, users oftentimes forget to shop for the items they require to shop for. However, with the help of this app, you'll be able to build a listing of the groceries you propose to shop for in order that you do not forget something.
 
 Demonstration video of Designed Application-https://drive.google.com/file/d/1mimac7Pa7RM9j2Yqa_mqepbdxWg3q_G9/view?usp=drivesdk
